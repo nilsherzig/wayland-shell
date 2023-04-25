@@ -15,7 +15,7 @@ cargo run
 ```
 
 
-# roadmap / todo
+## roadmap / todo
 
 - [ ] modularity (only needed if other people want to use this wacky projekt haha)
 - [ ] bar modules
@@ -24,7 +24,7 @@ cargo run
 - [ ] notifications
 - [ ] programm launcher (.desktop files) 
 
-# ci 
+## ci 
 
 Test locally with: 
 

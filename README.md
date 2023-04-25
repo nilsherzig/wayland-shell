@@ -23,3 +23,11 @@ cargo run
     - [ ] current workspace (hyprland, others(?))
 - [ ] notifications
 - [ ] programm launcher (.desktop files) 
+
+# ci 
+
+Test locally with: 
+
+```bash
+act -P self-hosted=nektos/act-environments-ubuntu:18.04
+```

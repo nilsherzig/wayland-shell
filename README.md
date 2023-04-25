@@ -9,3 +9,12 @@ export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig
 export LD_LIBRARY_PATH=/usr/local/lib
 cargo run 
 ```
+
+
+# roadmap / todo
+
+- [ ] current window name
+- [ ] current workspace (hyprland, others(?))
+- [ ] notifications
+- [ ] programm launcher (.desktop files) 
+- [ ] modularity (only needed if other people want to use this wacky projekt haha)

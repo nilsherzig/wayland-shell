@@ -2,7 +2,7 @@
 
 ## Why Wayland-Shell?
 
-I am a fan of the Gnome Shell, but I also love Hyprland / Sway. As a result, I wanted to create something to replace the Gnome Shell, albeit on a smaller scale. This project is my first attempt with GTK, so the code may not look pretty. However, I plan to rewrite it once I gain more knowledge about GTK. Currently, the code only displays a basic bar indicating the date and battery level.
+I am a fan of the Gnome Shell, but I also love Hyprland / Sway. As a result, I wanted to create something to replace the Gnome Shell, albeit on a smaller scale. This project is my first attempt at GTK, so the code may not look pretty. However, I plan to rewrite it once I gain more knowledge about GTK. Currently, the code only displays a basic bar indicating the date and battery level.
 
 ![current example](example.png)
 

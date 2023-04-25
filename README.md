@@ -3,3 +3,9 @@ This is my first attempt with gtk, so the code "may" not look pretty. However, I
 ![current example](example.png)
 
 You currently need to compile https://github.com/wmww/gtk4-layer-shell yourself to run this project.
+
+```bash
+export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig
+export LD_LIBRARY_PATH=/usr/local/lib
+cargo run 
+```

@@ -14,6 +14,7 @@ fn activate(application: &gtk::Application) {
 
     let gtk_box = gtk::Box::builder()
         .orientation(Orientation::Horizontal)
+        .halign(gtk::Align::End)
         .build();
     gtk_box.add_css_class("main_container");
 
